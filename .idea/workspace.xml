@@ -4,22 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96665327-84b0-4182-a47f-a9f051c3fbcf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PAD_all.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PAD_01.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PAD_02.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/01/Zadanie_1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/01/Zadanie_2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/01/Zadanie_3_macierz_A.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/01/Zadanie_3_macierz_B.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/02/Seattle2014.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/02/Zadanie_2 1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/02/president_heights.csv" afterDir="false" />
+    <list default="true" id="96665327-84b0-4182-a47f-a9f051c3fbcf" name="Changes" comment="pad01 and pad02">
+      <change afterPath="$PROJECT_DIR$/PAD_03.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PAD_04.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/03/PAD_03_PD.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/04/customers.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/04/orders.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +27,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;JacquesM27&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/JacquesM27/PAD_all&quot;,
+    &quot;accountId&quot;: &quot;655a30f5-f230-4ec4-9b0f-8f1ef2386460&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -47,21 +50,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/pjatk/studia magisterskie/PAD/PAD_all/data/04",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\pjatk\studia magisterskie\PAD\PAD_all\data\04" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\pjatk\studia magisterskie\PAD\PAD_all" />
+      <recent name="C:\pjatk\studia magisterskie\PAD\PAD_all\data\03" />
       <recent name="C:\pjatk\studia magisterskie\PAD\PAD_all\data\01" />
       <recent name="C:\pjatk\studia magisterskie\PAD\PAD_all\data\02" />
     </key>
@@ -95,11 +105,31 @@
       <workItem from="1729420241695" duration="5913000" />
       <workItem from="1729442059451" duration="772000" />
       <workItem from="1729696909556" duration="59000" />
-      <workItem from="1729956866528" duration="638000" />
+      <workItem from="1729956866528" duration="836000" />
+      <workItem from="1729959169836" duration="901000" />
+      <workItem from="1729960090671" duration="43000" />
+      <workItem from="1729960187146" duration="22000" />
+      <workItem from="1729960465723" duration="28000" />
+      <workItem from="1729960501918" duration="1369000" />
+      <workItem from="1729963062533" duration="671000" />
+      <workItem from="1729965578082" duration="3037000" />
     </task>
+    <task id="LOCAL-00001" summary="pad01 and pad02">
+      <option name="closed" value="true" />
+      <created>1729958921439</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729958921439</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pad01 and pad02" />
+    <option name="LAST_COMMIT_MESSAGE" value="pad01 and pad02" />
   </component>
 </project>
