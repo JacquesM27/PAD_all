@@ -4,13 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96665327-84b0-4182-a47f-a9f051c3fbcf" name="Changes" comment="pad01 and pad02">
-      <change afterPath="$PROJECT_DIR$/PAD_03.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PAD_04.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/03/PAD_03_PD.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/04/customers.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/04/orders.csv" afterDir="false" />
+    <list default="true" id="96665327-84b0-4182-a47f-a9f051c3fbcf" name="Changes" comment="pad03 and pad04">
+      <change afterPath="$PROJECT_DIR$/mini_projekt.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PAD_04.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/PAD_04.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,21 +47,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/pjatk/studia magisterskie/PAD/PAD_all/data/04",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/pjatk/studia magisterskie/PAD/PAD_all/data/04&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\pjatk\studia magisterskie\PAD\PAD_all\data\04" />
@@ -79,8 +76,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23339.19" />
-        <option value="bundled-python-sdk-0029f7779945-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23339.19" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23726.102" />
+        <option value="bundled-python-sdk-5e1850174b45-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23726.102" />
       </set>
     </attachedChunks>
   </component>
@@ -112,7 +109,18 @@
       <workItem from="1729960465723" duration="28000" />
       <workItem from="1729960501918" duration="1369000" />
       <workItem from="1729963062533" duration="671000" />
-      <workItem from="1729965578082" duration="3037000" />
+      <workItem from="1729965578082" duration="3346000" />
+      <workItem from="1730048666507" duration="72000" />
+      <workItem from="1730137790056" duration="146000" />
+      <workItem from="1730138032252" duration="80000" />
+      <workItem from="1730138394392" duration="2897000" />
+      <workItem from="1730237128363" duration="15000" />
+      <workItem from="1730828986377" duration="1242000" />
+      <workItem from="1731175674142" duration="1260000" />
+      <workItem from="1731178834765" duration="1930000" />
+      <workItem from="1731181413394" duration="2910000" />
+      <workItem from="1731222234461" duration="35000" />
+      <workItem from="1731222287710" duration="1436000" />
     </task>
     <task id="LOCAL-00001" summary="pad01 and pad02">
       <option name="closed" value="true" />
@@ -122,7 +130,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729958921439</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="pad03 and pad04">
+      <option name="closed" value="true" />
+      <created>1729968856346</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729968856346</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +146,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="pad01 and pad02" />
-    <option name="LAST_COMMIT_MESSAGE" value="pad01 and pad02" />
+    <MESSAGE value="pad03 and pad04" />
+    <option name="LAST_COMMIT_MESSAGE" value="pad03 and pad04" />
   </component>
 </project>
