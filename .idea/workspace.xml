@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96665327-84b0-4182-a47f-a9f051c3fbcf" name="Changes" comment="added oponeo rating column">
+    <list default="true" id="96665327-84b0-4182-a47f-a9f051c3fbcf" name="Changes" comment="cleanup dataframes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mini_projekt.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mini_projekt.ipynb" afterDir="false" />
     </list>
@@ -126,7 +126,7 @@
       <workItem from="1731245010976" duration="3352000" />
       <workItem from="1731255300208" duration="659000" />
       <workItem from="1731258028565" duration="4142000" />
-      <workItem from="1731315924362" duration="12092000" />
+      <workItem from="1731315924362" duration="21010000" />
     </task>
     <task id="LOCAL-00001" summary="pad01 and pad02">
       <option name="closed" value="true" />
@@ -176,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731262098339</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="cleanup dataframes">
+      <option name="closed" value="true" />
+      <created>1731329646134</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1731329646134</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,6 +197,7 @@
     <MESSAGE value="scrapped sklep opon, started scrapping oponeo" />
     <MESSAGE value="scrapped oponeo" />
     <MESSAGE value="added oponeo rating column" />
-    <option name="LAST_COMMIT_MESSAGE" value="added oponeo rating column" />
+    <MESSAGE value="cleanup dataframes" />
+    <option name="LAST_COMMIT_MESSAGE" value="cleanup dataframes" />
   </component>
 </project>
