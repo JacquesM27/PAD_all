@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96665327-84b0-4182-a47f-a9f051c3fbcf" name="Changes" comment="refactoring and dataframes cleanup">
+    <list default="true" id="96665327-84b0-4182-a47f-a9f051c3fbcf" name="Changes" comment="added duplicates removing">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mini_projekt.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mini_projekt.ipynb" afterDir="false" />
     </list>
@@ -126,7 +126,9 @@
       <workItem from="1731245010976" duration="3352000" />
       <workItem from="1731255300208" duration="659000" />
       <workItem from="1731258028565" duration="4142000" />
-      <workItem from="1731315924362" duration="22143000" />
+      <workItem from="1731315924362" duration="22487000" />
+      <workItem from="1731440086501" duration="37000" />
+      <workItem from="1731440133205" duration="1063000" />
     </task>
     <task id="LOCAL-00001" summary="pad01 and pad02">
       <option name="closed" value="true" />
@@ -192,7 +194,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731357057763</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="added duplicates removing">
+      <option name="closed" value="true" />
+      <created>1731358016416</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1731358016416</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -207,6 +217,7 @@
     <MESSAGE value="added oponeo rating column" />
     <MESSAGE value="cleanup dataframes" />
     <MESSAGE value="refactoring and dataframes cleanup" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactoring and dataframes cleanup" />
+    <MESSAGE value="added duplicates removing" />
+    <option name="LAST_COMMIT_MESSAGE" value="added duplicates removing" />
   </component>
 </project>
