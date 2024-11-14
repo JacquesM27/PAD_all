@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96665327-84b0-4182-a47f-a9f051c3fbcf" name="Changes" comment="completed cleaning">
+    <list default="true" id="96665327-84b0-4182-a47f-a9f051c3fbcf" name="Changes" comment="added EDA">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mini_projekt.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mini_projekt.ipynb" afterDir="false" />
     </list>
@@ -129,7 +129,9 @@
       <workItem from="1731315924362" duration="22487000" />
       <workItem from="1731440086501" duration="37000" />
       <workItem from="1731440133205" duration="2030000" />
-      <workItem from="1731516611616" duration="5860000" />
+      <workItem from="1731516611616" duration="7492000" />
+      <workItem from="1731599813453" duration="3512000" />
+      <workItem from="1731603661318" duration="5824000" />
     </task>
     <task id="LOCAL-00001" summary="pad01 and pad02">
       <option name="closed" value="true" />
@@ -211,7 +213,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731441778430</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="added EDA">
+      <option name="closed" value="true" />
+      <created>1731523304781</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1731523304781</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,6 +238,7 @@
     <MESSAGE value="refactoring and dataframes cleanup" />
     <MESSAGE value="added duplicates removing" />
     <MESSAGE value="completed cleaning" />
-    <option name="LAST_COMMIT_MESSAGE" value="completed cleaning" />
+    <MESSAGE value="added EDA" />
+    <option name="LAST_COMMIT_MESSAGE" value="added EDA" />
   </component>
 </project>
