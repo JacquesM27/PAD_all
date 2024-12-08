@@ -1,0 +1,416 @@
+name,brand,model,size,load_index,speed_index,fuel_index,wet_grip_index,noise_index,noise_level,class,user_rating,price,availability
+Wintrac 205/55 R16 91 H,Vredestein,Wintrac,205/55 R16,91,H,C,B,B,70.0,Premium,5.4,376.99,full
+WinterExpert 205/55 R16 91 T,Uniroyal,WinterExpert,205/55 R16,91,T,C,B,B,71.0,Średnia,5.4,343.99,full
+SP901 205/55 R16 91 H,Austone,SP901,205/55 R16,91,H,D,D,B,72.0,Ekonomiczna,5.1,229.99,full
+Frigo 2 205/55 R16 91 T,Dębica,Frigo 2,205/55 R16,91,T,C,C,B,71.0,Ekonomiczna,5.1,249.0,full
+Winter i*cept RS3 W462 205/55 R16 91 T,Hankook,Winter i*cept RS3 W462,205/55 R16,91,T,C,B,B,72.0,Premium,5.3,322.0,full
+Frigo HP2 205/55 R16 91 H,Dębica,Frigo HP2,205/55 R16,91,H,C,C,B,72.0,Ekonomiczna,5.2,299.0,full
+Z507 205/55 R16 91 V,Goodride,Z507,205/55 R16,91,V,C,C,B,72.0,Ekonomiczna,5.1,239.99,full
+SW608 205/55 R16 91 H,Goodride,SW608,205/55 R16,91,H,C,C,B,72.0,Ekonomiczna,5.1,249.99,full
+Polaris 6 205/55 R16 91 T,Barum,Polaris 6,205/55 R16,91,T,B,C,B,72.0,Ekonomiczna,5.0,319.0,full
+WinterExpert 205/55 R16 91 H,Uniroyal,WinterExpert,205/55 R16,91,H,C,B,B,71.0,Średnia,5.4,350.0,full
+Wintercraft WP52 205/55 R16 91 H,Kumho,Wintercraft WP52,205/55 R16,91,H,C,B,B,72.0,Średnia,5.1,320.0,full
+Winterhawk 4 205/55 R16 91 H,Firestone,Winterhawk 4,205/55 R16,91,H,C,B,B,71.0,Średnia,5.3,344.0,full
+Eurowinter HS02 205/55 R16 91 H,Falken,Eurowinter HS02,205/55 R16,91,H,D,B,A,69.0,Średnia,5.4,399.0,full
+Blizzak LM005 205/55 R16 91 H,Bridgestone,Blizzak LM005,205/55 R16,91,H,C,A,B,71.0,Premium,5.5,455.0,full
+Winguard Snow'G WH2 205/55 R16 91 H,Nexen,Winguard Snow'G WH2,205/55 R16,91,H,D,C,B,70.0,Średnia,5.3,310.0,full
+Snowproof 2 205/55 R16 94 H,Nokian Tyres,Snowproof 2,205/55 R16,94,H,B,B,A,69.0,Premium,5.6,435.0,full
+Winguard Snow'G3 WH21 205/55 R16 91 T,Nexen,Winguard Snow'G3 WH21,205/55 R16,91,T,D,B,B,72.0,Średnia,5.2,284.12,full
+Winter Sport 5 205/55 R16 91 H,Dunlop,Winter Sport 5,205/55 R16,91,H,C,B,B,71.0,Premium,5.4,402.99,full
+Winter i*cept RS3 W462 205/55 R16 94 H,Hankook,Winter i*cept RS3 W462,205/55 R16,94,H,C,B,B,72.0,Premium,5.3,380.0,full
+Winguard Snow'G3 WH21 205/55 R16 91 H,Nexen,Winguard Snow'G3 WH21,205/55 R16,91,H,D,B,B,72.0,Średnia,5.2,289.99,full
+Eurowinter HS01 205/55 R16 91 T,Falken,Eurowinter HS01,205/55 R16,91,T,D,B,B,70.0,Średnia,5.1,355.0,full
+Winter i*cept RS3 W462 205/55 R16 91 H,Hankook,Winter i*cept RS3 W462,205/55 R16,91,H,C,B,B,72.0,Premium,5.3,387.86,full
+BluEarth Winter V906 205/55 R16 91 T,Yokohama,BluEarth Winter V906,205/55 R16,91,T,D,B,B,71.0,Premium,5.3,347.0,full
+Eurowinter HS01 205/55 R16 91 T,Falken,Eurowinter HS01,205/55 R16,91,T,D,B,B,70.0,Średnia,5.1,355.0,full
+Winter i*cept RS3 W462 205/55 R16 91 H,Hankook,Winter i*cept RS3 W462,205/55 R16,91,H,C,B,B,72.0,Premium,5.3,387.86,full
+BluEarth Winter V906 205/55 R16 91 T,Yokohama,BluEarth Winter V906,205/55 R16,91,T,D,B,B,71.0,Premium,5.3,347.0,full
+Alpin 7 205/55 R16 91 T,Michelin,Alpin 7,205/55 R16,91,T,C,B,B,71.0,Premium,5.5,460.0,full
+Alpin 7 205/55 R16 91 H,Michelin,Alpin 7,205/55 R16,91,H,C,B,B,71.0,Premium,5.5,465.0,full
+DIMAX ALPINE 205/55 R16 94 H,Radar,DIMAX ALPINE,205/55 R16,94,H,D,C,A,69.0,Ekonomiczna,5.2,225.49,full
+Winter S 205/55 R16 91 H,Point S,Winter S,205/55 R16,91,H,,,,,Średnia,5.6,271.94,full
+Ultra Grip Performance 3 205/55 R16 91 T,Goodyear,Ultra Grip Performance 3,205/55 R16,91,T,C,B,B,70.0,Premium,5.5,429.99,medium
+Wintrac 205/55 R16 91 T,Vredestein,Wintrac,205/55 R16,91,T,C,B,B,70.0,Premium,5.4,355.5,full
+BluEarth Winter V906 205/55 R16 91 H,Yokohama,BluEarth Winter V906,205/55 R16,91,H,D,B,B,71.0,Premium,5.3,352.49,full
+Eskimo S3+ 205/55 R16 91 T,Sava,Eskimo S3+,205/55 R16,91,T,C,C,B,72.0,Ekonomiczna,5.0,306.18,full
+WINGUARD Snow'G 2 205/55 R16 94 V,Roadstone,WINGUARD Snow'G 2,205/55 R16,94,V,D,C,B,70.0,Ekonomiczna,,245.0,full
+WinterContact TS 870 205/55 R16 94 H,Continental,WinterContact TS 870,205/55 R16,94,H,C,B,B,70.0,Premium,5.6,535.56,full
+ContiWinterContact TS 830 P 205/55 R16 91 H,Continental,ContiWinterContact TS 830 P,205/55 R16,91,H,D,C,B,72.0,Premium,5.0,436.05,low
+Snowproof 1 205/55 R16 91 H,Nokian Tyres,Snowproof 1,205/55 R16,91,H,C,B,B,70.0,Premium,5.4,351.99,medium
+Snowproof 2 205/55 R16 91 H,Nokian Tyres,Snowproof 2,205/55 R16,91,H,C,B,A,69.0,Premium,5.6,361.88,full
+WinterContact TS 870 205/55 R16 91 H,Continental,WinterContact TS 870,205/55 R16,91,H,C,B,B,70.0,Premium,5.6,476.99,full
+Snowproof 2 205/55 R16 91 T,Nokian Tyres,Snowproof 2,205/55 R16,91,T,C,B,A,69.0,Premium,5.6,364.99,full
+Polaris 6 205/55 R16 91 H,Barum,Polaris 6,205/55 R16,91,H,B,C,B,72.0,Ekonomiczna,5.0,382.06,full
+Kristall Control HP2 205/55 R16 91 H,Fulda,Kristall Control HP2,205/55 R16,91,H,C,C,B,72.0,Średnia,5.3,354.99,full
+Winguard Snow'G WH2 205/55 R16 91 T,Nexen,Winguard Snow'G WH2,205/55 R16,91,T,D,B,B,70.0,Średnia,5.3,349.7,full
+MP93 Nordicca 205/55 R16 91 T,Matador,MP93 Nordicca,205/55 R16,91,T,C,C,B,72.0,Średnia,5.4,354.97,medium
+Winguard Snow'G3 WH21 205/55 R16 94 V,Nexen,Winguard Snow'G3 WH21,205/55 R16,94,V,D,C,B,72.0,Średnia,5.2,381.71,medium
+WinterContact TS 870 205/55 R16 91 T,Continental,WinterContact TS 870,205/55 R16,91,T,C,B,B,70.0,Premium,5.6,479.66,full
+Krisalp HP3 205/55 R16 91 H,Kleber,Krisalp HP3,205/55 R16,91,H,D,B,A,69.0,Średnia,5.3,341.99,full
+WINTER IL868 205/55 R16 91 H,Ilink,WINTER IL868,205/55 R16,91,H,C,C,B,70.0,,,197.09,full
+Winter i*cept RS3 W462 205/55 R16 91 H,Hankook,Winter i*cept RS3 W462,205/55 R16,91,H,C,B,B,71.0,Premium,5.3,387.86,full
+Cinturato Winter 2 205/55 R16 91 H,Pirelli,Cinturato Winter 2,205/55 R16,91,H,C,B,A,69.0,Premium,5.6,464.08,full
+SNOWBLAZER 205/55 R16 91 H,Windforce,SNOWBLAZER,205/55 R16,91,H,E,B,B,72.0,,5.0,370.42,full
+Snow 205/55 R16 91 H,Kormoran,Snow,205/55 R16,91,H,D,C,B,72.0,Ekonomiczna,5.1,256.98,full
+Cinturato Winter 205/55 R16 91 H,Pirelli,Cinturato Winter,205/55 R16,91,H,C,B,A,67.0,Premium,5.4,464.08,full
+Polaris 5 205/55 R16 91 T,Barum,Polaris 5,205/55 R16,91,T,C,C,B,72.0,Ekonomiczna,5.3,543.65,medium
+Blizzak 6 205/55 R16 91 H,Bridgestone,Blizzak 6,205/55 R16,91,H,C,B,B,70.0,Premium,5.1,445.52,full
+Winter i*cept RS3 W462 205/55 R16 94 V,Hankook,Winter i*cept RS3 W462,205/55 R16,94,V,C,B,B,72.0,Premium,5.3,489.01,full
+Winter Sport 5 205/55 R16 91 T,Dunlop,Winter Sport 5,205/55 R16,91,T,C,B,B,71.0,Premium,5.4,526.16,medium
+Setula W Race S130 205/55 R16 91 V,Rotalla,Setula W Race S130,205/55 R16,91,V,C,B,B,70.0,Ekonomiczna,5.4,352.38,full
+Winterxpro 888 205/55 R16 91 H,Sonix,Winterxpro 888,205/55 R16,91,H,C,D,B,69.0,,6.0,216.47,full
+Winguard Sport 2 205/55 R16 91 H,Nexen,Winguard Sport 2,205/55 R16,91,H,D,B,B,70.0,Średnia,5.2,361.61,full
+Winter i*cept IZ2 W616 205/55 R16 94 T,Hankook,Winter i*cept IZ2 W616,205/55 R16,94,T,C,E,B,72.0,Premium,5.6,623.32,full
+Snow 205/55 R16 94 H,Kormoran,Snow,205/55 R16,94,H,D,C,B,72.0,Ekonomiczna,5.1,292.99,full
+Alpin 5 205/55 R16 91 H,Michelin,Alpin 5,205/55 R16,91,H,D,B,A,68.0,Premium,5.5,737.72,full
+S130 205/55 R16 91 V,Tracmax,S130,205/55 R16,91,V,C,B,B,70.0,Ekonomiczna,5.2,249.75,medium
+I FIT+ 205/55 R16 91 H,Laufenn,I FIT+,205/55 R16,91,H,,,,,,5.4,328.57,full
+Blizzak 6 205/55 R16 94 H,Bridgestone,Blizzak 6,205/55 R16,94,H,,,,,Premium,5.1,502.64,full
+MP93 Nordicca 205/55 R16 94 V,Matador,MP93 Nordicca,205/55 R16,94,V,C,C,B,72.0,Średnia,5.4,330.12,full
+Wintercraft WP52 205/55 R16 94 H,Kumho,Wintercraft WP52,205/55 R16,94,H,C,B,B,72.0,Średnia,5.1,514.43,medium
+SNOWGRIPPER I 205/55 R16 91 H,Ilink,SNOWGRIPPER I,205/55 R16,91,H,C,D,B,69.0,,4.3,220.18,full
+Wintrac 205/55 R16 94 H,Vredestein,Wintrac,205/55 R16,94,H,C,B,B,70.0,Premium,5.4,416.99,full
+Winmaster ARW 2 205/55 R16 91 H,Arivo,Winmaster ARW 2,205/55 R16,91,H,C,C,B,70.0,,5.6,237.71,full
+UltraGrip 9+ 205/55 R16 91 H,Goodyear,UltraGrip 9+,205/55 R16,91,H,C,B,B,71.0,Premium,5.5,514.64,full
+Ultra Grip Performance 3 205/55 R16 91 H,Goodyear,Ultra Grip Performance 3,205/55 R16,91,H,C,B,B,70.0,Premium,5.5,458.08,full
+TW401 205/55 R16 94 V,Triangle,TW401,205/55 R16,94,V,D,C,B,72.0,,,260.58,full
+Winter Sottozero 3 205/55 R16 91 H,Pirelli,Winter Sottozero 3,205/55 R16,91,H,C,B,A,68.0,Premium,5.5,557.99,full
+DIMAX WINTER 205/55 R16 94 V,Radar,DIMAX WINTER,205/55 R16,94,V,C,B,B,69.0,Ekonomiczna,,315.61,full
+ESKIMO HP2 205/55 R16 94 H,Sava,ESKIMO HP2,205/55 R16,94,H,C,D,B,72.0,Ekonomiczna,5.2,487.45,full
+Alnac 4G Winter 205/55 R16 91 T,Apollo,Alnac 4G Winter,205/55 R16,91,T,,,,,Średnia,5.3,317.97,medium
+MP93 Nordicca 205/55 R16 91 H,Matador,MP93 Nordicca,205/55 R16,91,H,C,C,B,72.0,Średnia,5.4,354.72,full
+WinTech NewGen 205/55 R16 91 H,Viking,WinTech NewGen,205/55 R16,91,H,B,C,B,72.0,,5.5,340.95,full
+UltraGrip Performance Gen-1 205/55 R16 91 H,Goodyear,UltraGrip Performance Gen-1,205/55 R16,91,H,C,B,B,72.0,Premium,5.4,610.33,medium
+Blizzak LM005 205/55 R16 94 H,Bridgestone,Blizzak LM005,205/55 R16,94,H,C,A,B,71.0,Premium,5.5,602.35,full
+ICE BLAZER ALPINE PLUS WSL3+ 205/55 R16 91 H,Sailun,ICE BLAZER ALPINE PLUS WSL3+,205/55 R16,91,H,D,C,B,72.0,,4.4,229.99,full
+Observe S944 205/55 R16 91 H,Toyo,Observe S944,205/55 R16,91,H,D,B,A,69.0,Średnia,5.0,332.57,full
+Kristall Montero 3 205/55 R16 91 T,Fulda,Kristall Montero 3,205/55 R16,91,T,C,C,B,72.0,Średnia,5.2,620.59,full
+SNOWBLAZER 205/55 R16 94 H,Windforce,SNOWBLAZER,205/55 R16,94,H,E,B,B,72.0,,5.0,441.07,medium
+Cinturato Winter 2 205/55 R16 91 H,Pirelli,Cinturato Winter 2,205/55 R16,91,H,C,B,A,69.0,Premium,5.6,422.8,low
+Winter i*cept RS3 W462 205/55 R16 91 H,Hankook,Winter i*cept RS3 W462,205/55 R16,91,H,D,B,B,72.0,Premium,5.3,468.15,full
+Wintercraft WP52 205/55 R16 91 H,Kumho,Wintercraft WP52,205/55 R16,91,H,C,B,B,72.0,Średnia,5.1,390.76,full
+SNOWAYS 4 205/55 R16 91 H,Lassa,SNOWAYS 4,205/55 R16,91,H,D,B,A,69.0,,1.0,416.96,full
+Eurowinter HS01 205/55 R16 91 H,Falken,Eurowinter HS01,205/55 R16,91,H,E,C,B,71.0,Średnia,5.1,512.56,full
+Krisalp HP3 205/55 R16 94 V,Kleber,Krisalp HP3,205/55 R16,94,V,D,B,A,68.0,Średnia,5.3,422.12,medium
+Cinturato Winter 2 205/55 R16 94 H,Pirelli,Cinturato Winter 2,205/55 R16,94,H,C,B,A,69.0,Premium,5.6,470.0,full
+WinterExpert 205/55 R16 94 H,Uniroyal,WinterExpert,205/55 R16,94,H,C,B,B,71.0,Średnia,5.4,433.27,full
+Kristall Control HP2 205/55 R16 94 V,Fulda,Kristall Control HP2,205/55 R16,94,V,C,C,B,72.0,Średnia,5.3,508.72,full
+Alnac 4G Winter 205/55 R16 91 H,Apollo,Alnac 4G Winter,205/55 R16,91,H,,,,,Średnia,5.3,352.48,medium
+Blizzak LM001 205/55 R16 91 H,Bridgestone,Blizzak LM001,205/55 R16,91,H,D,B,B,72.0,Premium,5.3,553.73,medium
+WinTech NewGen 205/55 R16 94 V,Viking,WinTech NewGen,205/55 R16,94,V,B,C,B,72.0,,5.5,340.95,medium
+FROSTRACK HP 205/55 R16 91 V,Minerva,FROSTRACK HP,205/55 R16,91,V,,,,,,5.3,323.94,medium
+SP Winter Sport 4D 205/55 R16 91 H,Dunlop,SP Winter Sport 4D,205/55 R16,91,H,D,C,B,70.0,Premium,4.9,488.99,low
+Eurowinter HS02 205/55 R16 94 V,Falken,Eurowinter HS02,205/55 R16,94,V,C,B,A,69.0,Średnia,5.4,560.13,low
+L-SNOW96 205/55 R16 91 H,Ilink,L-SNOW96,205/55 R16,91,H,C,D,B,69.0,,,200.82,full
+Alpin 7 205/55 R16 94 H,Michelin,Alpin 7,205/55 R16,94,H,C,B,B,71.0,Premium,5.5,544.88,full
+WINTER DRIVE 205/55 R16 91 H,Ceat,WINTER DRIVE,205/55 R16,91,H,C,C,B,70.0,,4.8,399.53,full
+WH01 205/55 R16 91 H,Roadx,WH01,205/55 R16,91,H,,,,,,4.8,315.47,full
+Snowtrac 5 205/55 R16 91 H,Vredestein,Snowtrac 5,205/55 R16,91,H,C,B,A,69.0,Premium,5.4,455.99,medium
+SP Winter Sport 4D 205/55 R16 91 H,Dunlop,SP Winter Sport 4D,205/55 R16,91,H,C,C,B,70.0,Premium,4.9,488.99,low
+Powergy Winter 205/55 R16 91 H,Pirelli,Powergy Winter,205/55 R16,91,H,C,C,B,71.0,Premium,,419.74,low
+ContiWinterContact TS 830 P 205/55 R16 91 H,Continental,ContiWinterContact TS 830 P,205/55 R16,91,H,D,C,B,72.0,Premium,5.0,564.85,full
+Blizzak LM001 EVO 205/55 R16 91 H,Bridgestone,Blizzak LM001 EVO,205/55 R16,91,H,C,B,B,72.0,Premium,4.6,464.46,full
+DIPLOMAT WINTER HP 205/55 R16 91 T,Diplomat,DIPLOMAT WINTER HP,205/55 R16,91,T,,,,,,,977.37,full
+ESKIMO HP2 205/55 R16 91 H,Sava,ESKIMO HP2,205/55 R16,91,H,C,B,B,71.0,Ekonomiczna,5.2,378.07,medium
+I FIT+ 205/55 R16 91 T,Laufenn,I FIT+,205/55 R16,91,T,,,,,,5.4,526.75,medium
+S210 205/55 R16 91 H,Rotalla,S210,205/55 R16,91,H,C,C,B,72.0,Ekonomiczna,4.7,238.12,full
+VIAMAGGIORE 205/55 R16 91 T,Premiorri,VIAMAGGIORE,205/55 R16,91,T,D,D,B,71.0,Ekonomiczna,4.3,226.99,full
+Blizzak 6 205/55 R16 94 V,Bridgestone,Blizzak 6,205/55 R16,94,V,,,,,Premium,5.1,621.21,full
+SNOWDRAGON UHP 205/55 R16 91 H,Imperial,SNOWDRAGON UHP,205/55 R16,91,H,C,C,B,72.0,,4.7,328.3,full
+Ultra Grip 8 205/55 R16 91 H,Goodyear,Ultra Grip 8,205/55 R16,91,H,,,,,Premium,5.2,634.11,full
+Weather Master SA 2+ 205/55 R16 91 T,Cooper,Weather Master SA 2+,205/55 R16,91,T,D,B,B,71.0,Średnia,4.3,299.43,full
+Winter Sport 5 205/55 R16 91 H,Dunlop,Winter Sport 5,205/55 R16,91,H,,,,,Premium,5.4,474.21,full
+Krisalp HP3 205/55 R16 94 H,Kleber,Krisalp HP3,205/55 R16,94,H,D,B,A,69.0,Średnia,5.3,441.73,full
+Snow 205/55 R16 91 T,Kormoran,Snow,205/55 R16,91,T,D,C,B,72.0,Ekonomiczna,5.1,505.96,full
+WH1000 205/55 R16 94 V,Zeetex,WH1000,205/55 R16,94,V,,,,,,5.3,547.96,full
+Winterhawk 4 205/55 R16 91 T,Firestone,Winterhawk 4,205/55 R16,91,T,C,B,B,71.0,Średnia,5.3,332.99,full
+Winterhawk 4 205/55 R16 94 V,Firestone,Winterhawk 4,205/55 R16,94,V,C,B,B,71.0,Średnia,5.3,495.47,full
+S210 205/55 R16 94 H,Tracmax,S210,205/55 R16,94,H,C,C,B,72.0,Ekonomiczna,5.3,417.61,full
+g-Force Winter 2 205/55 R16 91 H,Bfgoodrich,g-Force Winter 2,205/55 R16,91,H,D,B,A,69.0,Średnia,5.2,420.26,full
+WINTER 205/55 R16 94 H,Taurus,WINTER,205/55 R16,94,H,D,C,B,72.0,,4.6,389.26,full
+Ultra Grip Performance 3 205/55 R16 94 H,Goodyear,Ultra Grip Performance 3,205/55 R16,94,H,C,B,B,70.0,Premium,5.5,531.99,full
+Observe S944 205/55 R16 94 V,Toyo,Observe S944,205/55 R16,94,V,D,B,B,71.0,Średnia,5.0,458.66,full
+Krisalp HP3 205/55 R16 91 T,Kleber,Krisalp HP3,205/55 R16,91,T,D,B,A,69.0,Średnia,5.3,408.49,medium
+Blizzak LM005 DriveGuard 205/55 R16 94 V,Bridgestone,Blizzak LM005 DriveGuard,205/55 R16,94,V,C,A,B,71.0,Premium,5.2,673.42,medium
+WINTECH 205/55 R16 91 T,Viking,WINTECH,205/55 R16,91,T,D,C,B,72.0,,5.3,729.35,full
+WinTech NewGen 205/55 R16 91 T,Viking,WinTech NewGen,205/55 R16,91,T,B,C,B,72.0,,5.5,385.6,low
+Ultra Grip Performance 2 205/55 R16 91 H,Goodyear,Ultra Grip Performance 2,205/55 R16,91,H,D,C,B,72.0,Premium,2.3,856.44,low
+I FIT+ 205/55 R16 94 H,Laufenn,I FIT+,205/55 R16,94,H,,,,,,5.4,427.92,medium
+WINTERPRO 2 205/55 R16 91 T,Gt radial,WINTERPRO 2,205/55 R16,91,T,,,,,,4.8,478.49,full
+WinterContact TS 860 205/55 R16 91 H,Continental,WinterContact TS 860,205/55 R16,91,H,,,,,Premium,5.5,3240.55,full
+UltraGrip 9+ 205/55 R16 91 T,Goodyear,UltraGrip 9+,205/55 R16,91,T,C,B,B,71.0,Premium,5.5,531.72,full
+WINTER HP 205/55 R16 91 H,Kelly,WINTER HP,205/55 R16,91,H,,,,,,,368.93,full
+WINTER HP 205/55 R16 91 T,Kelly,WINTER HP,205/55 R16,91,T,,,,,,,503.5,full
+WR D4 205/55 R16 91 H,Nokian Tyres,WR D4,205/55 R16,91,H,C,B,A,69.0,Premium,5.5,350.3,full
+WT200 205/55 R16 91 H,Sumitomo,WT200,205/55 R16,91,H,,,,,,5.3,264.04,full
+I FIT+ 205/55 R16 91 H,Laufenn,I FIT+,205/55 R16,91,H,C,C,B,72.0,,5.4,491.76,medium
+SP Winter Sport 3D 205/55 R16 91 H,Dunlop,SP Winter Sport 3D,205/55 R16,91,H,D,C,B,70.0,Premium,4.7,563.79,low
+SPEED-GRIP5 205/55 R16 91 H,Semperit,SPEED-GRIP5,205/55 R16,91,H,C,B,B,72.0,,4.5,473.39,low
+WINTERPRO2 (EVO)* 205/55 R16 91 H,Gt radial,WINTERPRO2 (EVO)*,205/55 R16,91,H,D,B,B,70.0,,,351.77,full
+Winter Sport 5 205/55 R16 94 V,Dunlop,Winter Sport 5,205/55 R16,94,V,C,B,B,71.0,Premium,5.4,535.02,full
+GitiWinter W2 205/55 R16 91 T,Giti,GitiWinter W2,205/55 R16,91,T,D,B,A,68.0,,,412.66,full
+WinterContact TS 860 S 205/55 R16 91 H,Continental,WinterContact TS 860 S,205/55 R16,91,H,C,C,B,72.0,Premium,5.6,573.05,full
+Z507 205/55 R16 91 V,Westlake,Z507,205/55 R16,91,V,,,,,Ekonomiczna,4.8,263.21,full
+WINTECH 205/55 R16 94 H,Viking,WINTECH,205/55 R16,94,H,D,C,C,72.0,,5.3,704.13,medium
+WR Snowproof 205/55 R16 91 H,Nokian Tyres,WR Snowproof,205/55 R16,91,H,D,B,A,69.0,Premium,5.5,701.76,medium
+Hakkapeliitta R5 205/55 R16 94 R,Nokian Tyres,Hakkapeliitta R5,205/55 R16,94,R,B,D,A,67.0,Premium,,641.02,medium
+SPEED-GRIP5 205/55 R16 94 H,Semperit,SPEED-GRIP5,205/55 R16,94,H,C,B,B,72.0,,4.5,460.72,medium
+SNOWROAD PRO 3 205/55 R16 94 H,Tomket,SNOWROAD PRO 3,205/55 R16,94,H,,,,,,,301.71,full
+Winter Activa 4 205/55 R16 94 V,Nankang,Winter Activa 4,205/55 R16,94,V,C,B,B,71.0,,,328.98,full
+BLUEWIN UHP 205/55 R16 91 H,Superia,BLUEWIN UHP,205/55 R16,91,H,,,,,,,293.53,full
+SNOW LEOPARD 205/55 R16 91 T,Mazzini,SNOW LEOPARD,205/55 R16,91,T,E,C,B,72.0,,4.2,510.83,full
+SNOWPOWER UHP 205/55 R16 94 H,Tristar,SNOWPOWER UHP,205/55 R16,94,H,,,,,,4.8,322.01,full
+SNOWPOWER 205/55 R16 91 H,Lanvigator,SNOWPOWER,205/55 R16,91,H,D,D,B,72.0,,,2394.84,full
+Cinturato Winter 205/55 R16 91 H,Pirelli,Cinturato Winter,205/55 R16,91,H,C,B,B,70.0,Premium,5.4,494.7,full
+DIMAX ALPINE 205/55 R16 91 H,Radar,DIMAX ALPINE,205/55 R16,91,H,D,C,A,69.0,Ekonomiczna,5.2,301.71,full
+Wintercraft WP52 205/55 R16 91 T,Kumho,Wintercraft WP52,205/55 R16,91,T,C,B,B,72.0,Średnia,5.1,355.99,full
+Winmaster ProX ARW 3 205/55 R16 91 H,Arivo,Winmaster ProX ARW 3,205/55 R16,91,H,C,D,B,69.0,,5.8,369.36,full
+g-Force Winter 2 205/55 R16 91 T,Bfgoodrich,g-Force Winter 2,205/55 R16,91,T,D,B,A,69.0,Średnia,5.2,564.35,full
+Winter i*cept RS3 W462 205/55 R16 91 H,Hankook,Winter i*cept RS3 W462,205/55 R16,91,H,C,B,B,72.0,Premium,5.3,436.47,full
+Winter i*cept RS3 W462 205/55 R16 94 V,Hankook,Winter i*cept RS3 W462,205/55 R16,94,V,C,B,B,72.0,Premium,5.3,486.63,full
+Ultra Grip Performance 3 205/55 R16 94 V,Goodyear,Ultra Grip Performance 3,205/55 R16,94,V,C,B,B,70.0,Premium,5.5,676.59,full
+FROSTRACK UHP 205/55 R16 94 H,Minerva,FROSTRACK UHP,205/55 R16,94,H,,,,,,4.5,358.54,full
+WH01 205/55 R16 94 V,Roadx,WH01,205/55 R16,94,V,,,,,,4.8,318.74,full
+Snow 205/55 R16 91 H,Riken,Snow,205/55 R16,91,H,D,C,B,72.0,,4.8,385.6,full
+SPEED-GRIP5 205/55 R16 94 V,Semperit,SPEED-GRIP5,205/55 R16,94,V,C,B,B,72.0,,4.5,567.06,full
+W586 205/55 R16 91 H,Ovation,W586,205/55 R16,91,H,,,,,,5.4,319.79,full
+Winter i*cept RS3 W462 205/55 R16 91 T,Hankook,Winter i*cept RS3 W462,205/55 R16,91,T,C,B,B,72.0,Premium,5.3,404.86,full
+Winter i*cept RS3 W462 205/55 R16 91 T,Hankook,Winter i*cept RS3 W462,205/55 R16,91,T,C,B,B,72.0,Premium,5.3,428.2,full
+PREMITRA SNOW WP6 205/55 R16 91 H,Maxxis,PREMITRA SNOW WP6,205/55 R16,91,H,,,,,,4.9,376.7,full
+Alnac 4G Winter 205/55 R16 94 H,Apollo,Alnac 4G Winter,205/55 R16,94,H,,,,,Średnia,5.3,424.76,full
+Observe GSi6 HP 205/55 R16 94 H,Toyo,Observe GSi6 HP,205/55 R16,94,H,E,E,B,71.0,Średnia,,597.21,full
+RoyalWinter HP 205/55 R16 91 H,Royal Black,RoyalWinter HP,205/55 R16,91,H,C,D,B,72.0,,4.9,281.04,full
+SNOW LEOPARD 2 205/55 R16 94 T,Mazzini,SNOW LEOPARD 2,205/55 R16,94,T,B,C,B,72.0,,5.5,512.56,full
+WH1000 205/55 R16 91 H,Zeetex,WH1000,205/55 R16,91,H,,,,,,5.3,315.46,full
+SW608 205/55 R16 91 H,Trazano,SW608,205/55 R16,91,H,,,,,,4.6,226.15,full
+WINTER 205/55 R16 91 H,Orium,WINTER,205/55 R16,91,H,D,C,B,72.0,,,302.02,full
+Winter Snowcontrol Serie 3 205/55 R16 91 H,Pirelli,Winter Snowcontrol Serie 3,205/55 R16,91,H,D,B,B,72.0,Premium,5.4,559.0,full
+A502 205/55 R16 94 H,Aplus,A502,205/55 R16,94,H,,,,,,,246.69,full
+WINTER-MAX A1 MW255 205/55 R16 91 H,Milever,WINTER-MAX A1 MW255,205/55 R16,91,H,C,C,B,72.0,,,214.42,full
+WinterExpert 205/55 R16 94 V,Uniroyal,WinterExpert,205/55 R16,94,V,C,B,B,71.0,Średnia,5.4,530.99,full
+Wintercraft WP51 205/55 R16 91 H,Kumho,Wintercraft WP51,205/55 R16,91,H,E,C,B,72.0,Średnia,5.3,418.03,full
+SNOWPOWER HP 205/55 R16 91 V,Tristar,SNOWPOWER HP,205/55 R16,91,V,,,,,,5.1,317.95,full
+BluEarth Winter V906 205/55 R16 94 V,Yokohama,BluEarth Winter V906,205/55 R16,94,V,D,B,B,71.0,Premium,5.3,484.19,full
+Hakkapeliitta 9 205/55 R16 94 T,Nokian Tyres,Hakkapeliitta 9,205/55 R16,94,T,,,,,Premium,,817.4,full
+Winter Snowcontrol Serie 3 205/55 R16 91 H,Pirelli,Winter Snowcontrol Serie 3,205/55 R16,91,H,,,,,Premium,5.4,760.15,full
+Weather Master SA 2+ 205/55 R16 94 V,Cooper,Weather Master SA 2+,205/55 R16,94,V,,,,,Średnia,4.3,691.27,full
+WINTER 205/55 R16 91 T,Taurus,WINTER,205/55 R16,91,T,D,C,B,72.0,,4.6,364.84,full
+SNOWPOWER UHP 205/55 R16 91 H,Tristar,SNOWPOWER UHP,205/55 R16,91,H,,,,,,4.8,1133.57,full
+UltraGrip 9+ 205/55 R16 94 H,Goodyear,UltraGrip 9+,205/55 R16,94,H,C,B,B,71.0,Premium,5.5,770.43,full
+TREK M7 205/55 R16 91 H,Maxtrek,TREK M7,205/55 R16,91,H,,,,,,,377.24,full
+WR Snowproof 205/55 R16 91 T,Nokian Tyres,WR Snowproof,205/55 R16,91,T,C,B,A,69.0,Premium,5.5,751.58,full
+BLUEWIN UHP 205/55 R16 94 H,Superia,BLUEWIN UHP,205/55 R16,94,H,,,,,,,536.31,full
+EUROVIS ALPINE WH1 205/55 R16 91 T,Roadstone,EUROVIS ALPINE WH1,205/55 R16,91,T,C,C,B,69.0,Ekonomiczna,5.0,421.2,full
+EUROFROST 6 205/55 R16 91 H,Gislaved,EUROFROST 6,205/55 R16,91,H,D,C,B,72.0,,5.0,511.42,full
+BLUEWIN UHP 205/55 R16 94 H,Superia,BLUEWIN UHP,205/55 R16,94,H,,,,,,,536.31,full
+ICE-SPIDER 205/55 R16 94 T,Windforce,ICE-SPIDER,205/55 R16,94,T,D,C,B,72.0,,,338.24,full
+Wintercraft WP51 205/55 R16 91 V,Kumho,Wintercraft WP51,205/55 R16,91,V,E,C,B,70.0,Średnia,5.3,623.32,full
+SP Winter Sport 4D 205/55 R16 91 H,Dunlop,SP Winter Sport 4D,205/55 R16,91,H,C,C,B,71.0,Premium,4.9,861.56,full
+GitiWinter W2 205/55 R16 91 H,Giti,GitiWinter W2,205/55 R16,91,H,D,B,A,68.0,,,522.25,full
+EUROVIS ALPINE WH1 205/55 R16 91 T,Roadstone,EUROVIS ALPINE WH1,205/55 R16,91,T,,,,,Ekonomiczna,5.0,389.65,full
+WINTER 205/55 R16 91 T,Orium,WINTER,205/55 R16,91,T,D,C,B,72.0,,,538.31,full
+Winter i*cept RS2 W452 205/55 R16 94 V,Hankook,Winter i*cept RS2 W452,205/55 R16,94,V,D,B,B,72.0,Premium,5.2,1393.4,full
+Ultra Grip 8 205/55 R16 91 T,Goodyear,Ultra Grip 8,205/55 R16,91,T,D,D,B,71.0,Premium,5.2,445.13,full
+CHAMPIRO WINTERPRO HP 205/55 R16 94 V,Gt radial,CHAMPIRO WINTERPRO HP,205/55 R16,94,V,D,C,B,72.0,,5.0,464.07,full
+ICE BLAZER ALPINE PLUS WSL3+ 205/55 R16 94 H,Sailun,ICE BLAZER ALPINE PLUS WSL3+,205/55 R16,94,H,D,C,B,72.0,,4.4,234.99,full
+EW62 205/55 R16 91 H,Evergreen,EW62,205/55 R16,91,H,,,,,,5.0,424.83,full
+WINTER 205/55 R16 91 H,Taurus,WINTER,205/55 R16,91,H,D,C,B,72.0,,4.6,336.37,full
+SP901 205/55 R16 94 H,Austone,SP901,205/55 R16,94,H,D,D,B,72.0,Ekonomiczna,5.1,328.77,full
+Observe S944 205/55 R16 91 H,Toyo,Observe S944,205/55 R16,91,H,D,B,A,69.0,Średnia,5.0,414.1,full
+Snow 205/55 R16 94 H,Riken,Snow,205/55 R16,94,H,D,C,B,72.0,,4.8,370.71,full
+Winter i*cept IZ3 W636 205/55 R16 94 H,Hankook,Winter i*cept IZ3 W636,205/55 R16,94,H,C,D,B,72.0,Premium,,544.8,full
+Winter i*cept RS3 W462 205/55 R16 91 H,Hankook,Winter i*cept RS3 W462,205/55 R16,91,H,C,B,B,72.0,Premium,5.3,400.56,full
+Ultra Grip 8 205/55 R16 91 H,Goodyear,Ultra Grip 8,205/55 R16,91,H,C,D,B,72.0,Premium,5.2,618.31,full
+EXTREMA BIEŻNIKOWANE 205/55 R16 91 H,Profil,EXTREMA BIEŻNIKOWANE,205/55 R16,91,H,,,,,,4.3,279.08,full
+SNOWPOWER HP 205/55 R16 91 H,Tristar,SNOWPOWER HP,205/55 R16,91,H,,,,,,5.1,636.69,full
+Wintergrip HP 205/55 R16 91 H,Lanvigator,Wintergrip HP,205/55 R16,91,H,D,C,B,72.0,,,217.53,full
+Winter i*cept RS2 W452 205/55 R16 91 T,Hankook,Winter i*cept RS2 W452,205/55 R16,91,T,D,B,B,72.0,Premium,5.2,819.65,full
+GOWIN UHP 205/55 R16 94 H,Fortuna,GOWIN UHP,205/55 R16,94,H,,,,,,6.0,588.22,full
+Winter i*cept RS2 W452 205/55 R16 91 T,Hankook,Winter i*cept RS2 W452,205/55 R16,91,T,D,B,B,72.0,Premium,5.2,797.03,full
+WINGUARD SPORT 205/55 R16 94 V,Roadstone,WINGUARD SPORT,205/55 R16,94,V,D,C,B,71.0,Ekonomiczna,5.2,436.58,full
+Wintoura 205/55 R16 91 T,Davanti,Wintoura,205/55 R16,91,T,,,,,,,306.96,full
+Snowtrac 5 205/55 R16 91 H,Vredestein,Snowtrac 5,205/55 R16,91,H,,,,,Premium,5.4,549.77,full
+EUROFROST 6 205/55 R16 91 T,Gislaved,EUROFROST 6,205/55 R16,91,T,D,C,B,72.0,,5.0,449.33,full
+EUROFROST 6 205/55 R16 94 H,Gislaved,EUROFROST 6,205/55 R16,94,H,D,C,B,72.0,,5.0,510.34,full
+VikingContact 7 205/55 R16 94 T,Continental,VikingContact 7,205/55 R16,94,T,,,,,Premium,5.1,834.75,full
+Green-Max Winter HP 205/55 R16 94 H,Linglong,Green-Max Winter HP,205/55 R16,94,H,D,C,B,72.0,,,326.06,full
+WINTER LANDER 205/55 R16 91 H,Landsail,WINTER LANDER,205/55 R16,91,H,,,,,,1.4,305.77,full
+FSR-901 205/55 R16 94 H,Fortune,FSR-901,205/55 R16,94,H,D,D,B,72.0,,5.3,231.38,full
+Wintrac 205/55 R16 94 V,Vredestein,Wintrac,205/55 R16,94,V,C,B,B,70.0,Premium,5.4,511.8,full
+Winter i*cept RS3 W462 205/55 R16 94 H,Hankook,Winter i*cept RS3 W462,205/55 R16,94,H,C,B,B,72.0,Premium,5.3,445.94,full
+Blizzak LM001 205/55 R16 91 H,Bridgestone,Blizzak LM001,205/55 R16,91,H,D,C,B,72.0,Premium,5.3,651.21,full
+Wintoura 205/55 R16 94 H,Davanti,Wintoura,205/55 R16,94,H,,,,,,,335.74,full
+Wintoura 205/55 R16 91 H,Davanti,Wintoura,205/55 R16,91,H,,,,,,,326.25,full
+SNOWBLAZER UHP 205/55 R16 94 H,Windforce,SNOWBLAZER UHP,205/55 R16,94,H,D,C,B,72.0,,4.5,462.72,full
+Discoverer Winter 205/55 R16 91 H,Cooper,Discoverer Winter,205/55 R16,91,H,D,B,B,71.0,Średnia,5.7,565.39,full
+WEATHER MASTER WSC 205/55 R16 91 T,Cooper,WEATHER MASTER WSC,205/55 R16,91,T,D,C,B,72.0,Średnia,5.3,403.11,full
+WINTERPRO2 (EVO)* 205/55 R16 91 T,Gt radial,WINTERPRO2 (EVO)*,205/55 R16,91,T,D,B,B,70.0,,,369.86,full
+WINTERHAWKE I 205/55 R16 91 H,ZMax,WINTERHAWKE I,205/55 R16,91,H,C,D,B,69.0,Ekonomiczna,,439.55,full
+Snow Chaser 2 AW08 205/55 R16 91 H,Autogreen,Snow Chaser 2 AW08,205/55 R16,91,H,D,C,B,72.0,,,324.01,full
+WINTER 205/55 R16 94 H,Orium,WINTER,205/55 R16,94,H,D,C,B,72.0,,,575.25,full
+Winguard Snow'G WH2 205/55 R16 94 V,Nexen,Winguard Snow'G WH2,205/55 R16,94,V,D,C,B,70.0,Średnia,5.3,529.01,full
+PREMITRA SNOW WP6 205/55 R16 94 V,Maxxis,PREMITRA SNOW WP6,205/55 R16,94,V,,,,,,4.9,429.11,full
+g-Force Winter 2 205/55 R16 94 H,Bfgoodrich,g-Force Winter 2,205/55 R16,94,H,D,B,A,69.0,Średnia,5.2,508.72,full
+Mozzo Winter 205/55 R16 91 V,Duraturn,Mozzo Winter,205/55 R16,91,V,,,,,,,409.95,medium
+Winter Sottozero 3 205/55 R16 91 H,Pirelli,Winter Sottozero 3,205/55 R16,91,H,D,B,B,72.0,Premium,5.5,818.05,full
+Eurowinter HS01 205/55 R16 91 H,Falken,Eurowinter HS01,205/55 R16,91,H,D,B,B,70.0,Średnia,5.1,694.24,full
+SNOWDRAGON HP 205/55 R16 91 V,Imperial,SNOWDRAGON HP,205/55 R16,91,V,C,C,B,70.0,,2.5,319.62,full
+SW608 205/55 R16 91 H,Westlake,SW608,205/55 R16,91,H,,,,,Ekonomiczna,4.9,421.89,full
+TQ022 205/55 R16 91 H,Torque,TQ022,205/55 R16,91,H,,,,,,,536.64,full
+SW608 205/55 R16 91 H,Westlake,SW608,205/55 R16,91,H,,,,,Ekonomiczna,4.9,362.19,full
+MW31 205/55 R16 91 H,Marshal,MW31,205/55 R16,91,H,E,C,B,72.0,,,294.94,full
+WinterContact TS 860 S 205/55 R16 91 H,Continental,WinterContact TS 860 S,205/55 R16,91,H,C,C,B,72.0,Premium,5.6,900.42,full
+Winter Pro TS1 205/55 R16 91 H,Tourador,Winter Pro TS1,205/55 R16,91,H,C,B,B,70.0,,4.7,354.23,full
+EW62 205/55 R16 94 H,Evergreen,EW62,205/55 R16,94,H,,,,,,5.0,583.67,full
+SNOWMASTER W651 205/55 R16 91 H,Petlas,SNOWMASTER W651,205/55 R16,91,H,,,,,,,380.84,full
+Winguard Snow'G WH2 205/55 R16 91 H,Nexen,Winguard Snow'G WH2,205/55 R16,91,H,,,,,Średnia,5.3,388.14,full
+GOWIN UHP 205/55 R16 91 H,Fortuna,GOWIN UHP,205/55 R16,91,H,,,,,,6.0,287.35,full
+Eurowinter HS02 205/55 R16 91 H,Falken,Eurowinter HS02,205/55 R16,91,H,C,B,A,69.0,Średnia,5.4,441.42,full
+g-Force Winter 2 205/55 R16 94 V,Bfgoodrich,g-Force Winter 2,205/55 R16,94,V,D,B,A,68.0,Średnia,5.2,882.9,full
+Winterhawk 4 205/55 R16 94 H,Firestone,Winterhawk 4,205/55 R16,94,H,C,B,B,71.0,Średnia,5.3,493.22,full
+Winter Sport 5 205/55 R16 94 H,Dunlop,Winter Sport 5,205/55 R16,94,H,C,B,B,71.0,Premium,5.4,488.99,full
+Blizzak LM005 205/55 R16 91 T,Bridgestone,Blizzak LM005,205/55 R16,91,T,C,A,B,71.0,Premium,5.5,475.88,full
+Winter Sport 5 205/55 R16 94 H,Dunlop,Winter Sport 5,205/55 R16,94,H,,,,,Premium,5.4,613.35,full
+Winter Sport 5 205/55 R16 94 V,Dunlop,Winter Sport 5,205/55 R16,94,V,,,,,Premium,5.4,606.06,full
+Eurowinter HS01 205/55 R16 91 T,Falken,Eurowinter HS01,205/55 R16,91,T,,,,,Średnia,5.1,382.03,full
+Kristall Montero 3 205/55 R16 91 T,Fulda,Kristall Montero 3,205/55 R16,91,T,,,,,Średnia,5.2,861.29,full
+Winter Sport 5 205/55 R16 91 T,Dunlop,Winter Sport 5,205/55 R16,91,T,,,,,Premium,5.4,526.16,full
+Kristall Montero 3 205/55 R16 91 T,Fulda,Kristall Montero 3,205/55 R16,91,T,,,,,Średnia,5.2,879.79,full
+Ultra Grip Performance 2 205/55 R16 91 H,Goodyear,Ultra Grip Performance 2,205/55 R16,91,H,,,,,Premium,2.3,1019.17,full
+Kristall Montero 3 205/55 R16 91 T,Fulda,Kristall Montero 3,205/55 R16,91,T,,,,,Średnia,5.2,523.97,full
+Winter Sottozero Serie II 205/55 R16 94 V,Pirelli,Winter Sottozero Serie II,205/55 R16,94,V,C,C,B,72.0,Premium,5.5,1024.59,full
+Alpin 6 205/55 R16 91 T,Michelin,Alpin 6,205/55 R16,91,T,C,B,A,69.0,Premium,5.7,826.82,full
+Winter S 205/55 R16 94 H,Point S,Winter S,205/55 R16,94,H,C,C,B,72.0,Średnia,5.6,325.21,full
+WV7 SNOW 205/55 R16 91 H,Avon,WV7 SNOW,205/55 R16,91,H,,,,,,,631.05,full
+WinterContact TS 870 205/55 R16 94 V,Continental,WinterContact TS 870,205/55 R16,94,V,C,B,B,70.0,Premium,5.6,706.55,full
+SV-3 205/55 R16 94 H,Nankang,SV-3,205/55 R16,94,H,,,,,,5.2,338.23,medium
+SV-3 205/55 R16 94 H,Nankang,SV-3,205/55 R16,94,H,,,,,,5.2,389.71,full
+BluEarth Winter V906 205/55 R16 94 H,Yokohama,BluEarth Winter V906,205/55 R16,94,H,D,B,B,71.0,Premium,5.3,379.48,full
+WINTER TOURING 212 205/55 R16 91 H,Hifly,WINTER TOURING 212,205/55 R16,91,H,,,,,,4.5,263.99,full
+Winterhawk 3 205/55 R16 94 V,Firestone,Winterhawk 3,205/55 R16,94,V,,,,,Średnia,4.7,1159.88,full
+X-Ice Xi3 205/55 R16 94 H,Michelin,X-Ice Xi3,205/55 R16,94,H,,,,,Premium,,752.63,full
+WINTERHAWK 2 EVO 205/55 R16 91 T,Firestone,WINTERHAWK 2 EVO,205/55 R16,91,T,,,,,Średnia,4.7,306.14,full
+GOWIN UHP 205/55 R16 91 V,Fortuna,GOWIN UHP,205/55 R16,91,V,,,,,,6.0,309.83,full
+SP Winter Sport 3D 205/55 R16 91 H,Dunlop,SP Winter Sport 3D,205/55 R16,91,H,D,C,B,72.0,Premium,4.7,563.79,medium
+NF3 - BIEŻNIKOWANA 205/55 R16 91 H,King Meiler,NF3 - BIEŻNIKOWANA,205/55 R16,91,H,,,,,,,324.34,full
+SPEED-GRIP5 205/55 R16 91 T,Semperit,SPEED-GRIP5,205/55 R16,91,T,C,B,B,72.0,,4.5,427.5,medium
+Snow 205/55 R16 94 H,Kormoran,Snow,205/55 R16,94,H,,,,,Ekonomiczna,5.1,321.38,medium
+SNOWDRAGON HP 205/55 R16 91 H,Imperial,SNOWDRAGON HP,205/55 R16,91,H,C,C,B,70.0,,2.5,309.75,medium
+Snow 205/55 R16 91 T,Kormoran,Snow,205/55 R16,91,T,,,,,Ekonomiczna,5.1,321.38,medium
+FROSTRACK HP 205/55 R16 91 H,Minerva,FROSTRACK HP,205/55 R16,91,H,,,,,,5.3,562.12,medium
+WT200 205/55 R16 94 V,Sumitomo,WT200,205/55 R16,94,V,,,,,,5.3,305.85,medium
+BLUEWIN UHP 205/55 R16 91 V,Superia,BLUEWIN UHP,205/55 R16,91,V,,,,,,,527.16,medium
+Polaris 5 205/55 R16 94 H,Barum,Polaris 5,205/55 R16,94,H,C,C,B,72.0,Ekonomiczna,5.3,581.78,medium
+Cinturato Winter 2 205/55 R16 91 T,Pirelli,Cinturato Winter 2,205/55 R16,91,T,C,B,A,69.0,Premium,5.6,535.0,medium
+ECOZEN 205/55 R16 94 H,Infinity,ECOZEN,205/55 R16,94,H,,,,,,,453.55,medium
+SNOWAYS 4 205/55 R16 94 V,Lassa,SNOWAYS 4,205/55 R16,94,V,D,B,A,69.0,,1.0,500.6,medium
+Winter i*cept RS2 W452 205/55 R16 94 H,Hankook,Winter i*cept RS2 W452,205/55 R16,94,H,D,B,B,72.0,Premium,5.2,528.58,medium
+VOYAGER WINTER 205/55 R16 91 H,Voyager,VOYAGER WINTER,205/55 R16,91,H,,,,,,,328.59,medium
+S210 205/55 R16 94 H,Rotalla,S210,205/55 R16,94,H,C,C,B,72.0,Ekonomiczna,4.7,422.45,medium
+I FIT+ 205/55 R16 91 T,Laufenn,I FIT+,205/55 R16,91,T,C,C,B,72.0,,5.4,524.68,medium
+DW510 205/55 R16 91 H,Dayton,DW510,205/55 R16,91,H,,,,,,4.6,1355.7,medium
+Alpin 6 205/55 R16 91 H,Michelin,Alpin 6,205/55 R16,91,H,C,B,A,69.0,Premium,5.7,1165.63,medium
+Wintercraft WP52 205/55 R16 91 T,Kumho,Wintercraft WP52,205/55 R16,91,T,C,B,B,72.0,Średnia,5.1,431.43,medium
+Snow 205/55 R16 91 T,Riken,Snow,205/55 R16,91,T,D,C,B,72.0,,4.8,396.42,medium
+Blizzak LM005 205/55 R16 94 V,Bridgestone,Blizzak LM005,205/55 R16,94,V,C,A,B,71.0,Premium,5.5,877.56,medium
+I FIT 205/55 R16 94 H,Laufenn,I FIT,205/55 R16,94,H,,,,,,4.8,2074.51,medium
+WINTER 205/55 R16 91 T,Tigar,WINTER,205/55 R16,91,T,D,C,B,72.0,,5.1,5339.3,medium
+Polaris 5 205/55 R16 91 H,Barum,Polaris 5,205/55 R16,91,H,C,C,B,72.0,Ekonomiczna,5.3,554.72,medium
+Polaris 5 205/55 R16 94 V,Barum,Polaris 5,205/55 R16,94,V,C,C,B,72.0,Ekonomiczna,5.3,644.81,medium
+Alpin 5 205/55 R16 91 H,Michelin,Alpin 5,205/55 R16,91,H,E,B,A,68.0,Premium,5.5,760.14,medium
+WINTER 205/55 R16 94 H,Tigar,WINTER,205/55 R16,94,H,D,C,B,72.0,,5.1,502.25,medium
+WINTECH 205/55 R16 91 H,Viking,WINTECH,205/55 R16,91,H,D,C,C,72.0,,5.3,519.84,medium
+SW618 205/55 R16 91 H,Goodride,SW618,205/55 R16,91,H,D,E,B,72.0,Ekonomiczna,4.8,386.52,medium
+NW211 205/55 R16 91 H,Sunny,NW211,205/55 R16,91,H,,,,,,5.2,369.18,medium
+NW211 205/55 R16 91 H,Sunny,NW211,205/55 R16,91,H,,,,,,5.2,369.18,medium
+UltraGrip Performance+ 205/55 R16 94 V,Goodyear,UltraGrip Performance+,205/55 R16,94,V,C,B,B,71.0,Premium,5.4,1205.81,medium
+Wintercraft WP51 205/55 R16 91 H,Kumho,Wintercraft WP51,205/55 R16,91,H,E,C,B,70.0,Średnia,5.3,470.66,medium
+FROSTRACK UHP 205/55 R16 91 H,Minerva,FROSTRACK UHP,205/55 R16,91,H,,,,,,4.5,381.91,medium
+Winter S 205/55 R16 91 T,Point S,Winter S,205/55 R16,91,T,,,,,Średnia,5.6,312.9,medium
+VIAMAGGIORE Z PLUS 205/55 R16 91 H,Premiorri,VIAMAGGIORE Z PLUS,205/55 R16,91,H,D,D,B,70.0,Ekonomiczna,4.3,234.99,medium
+Kristall Control HP 205/55 R16 94 V,Fulda,Kristall Control HP,205/55 R16,94,V,,,,,Średnia,5.0,306.14,medium
+Weather Master SA 2+ 205/55 R16 91 H,Cooper,Weather Master SA 2+,205/55 R16,91,H,,,,,Średnia,4.3,864.82,medium
+I'Zen XW KW23 205/55 R16 91 H,Kumho,I'Zen XW KW23,205/55 R16,91,H,,,,,Średnia,,319.67,low
+Blizzak LM001 205/55 R16 91 H,Bridgestone,Blizzak LM001,205/55 R16,91,H,C,B,B,72.0,Premium,5.3,587.41,low
+SPEED-GRIP3 205/55 R16 91 H,Semperit,SPEED-GRIP3,205/55 R16,91,H,,,,,,4.8,350.78,low
+Discoverer Winter 205/55 R16 94 V,Cooper,Discoverer Winter,205/55 R16,94,V,D,B,B,71.0,Średnia,5.7,563.99,low
+Wintercraft WP51 205/55 R16 91 T,Kumho,Wintercraft WP51,205/55 R16,91,T,E,C,B,70.0,Średnia,5.3,336.89,low
+Wintercraft WP52 205/55 R16 94 V,Kumho,Wintercraft WP52,205/55 R16,94,V,C,B,B,72.0,Średnia,5.1,580.58,low
+Polaris 6 205/55 R16 94 H,Barum,Polaris 6,205/55 R16,94,H,B,C,B,72.0,Ekonomiczna,5.0,509.85,low
+SNOWDRAGON UHP 205/55 R16 94 H,Imperial,SNOWDRAGON UHP,205/55 R16,94,H,C,C,B,72.0,,4.7,442.86,low
+Winter i*cept evo2 W320 205/55 R16 91 H,Hankook,Winter i*cept evo2 W320,205/55 R16,91,H,,,,,Premium,5.3,995.66,last
+Winter i*cept evo2 W320 205/55 R16 91 V,Hankook,Winter i*cept evo2 W320,205/55 R16,91,V,D,C,B,72.0,Premium,5.3,622.81,last
+Frigo 2 205/55 R16 91 T,Dębica,Frigo 2,205/55 R16,91,T,C,C,B,71.0,Ekonomiczna,5.1,249.0,full
+Winter i*cept RS3 W462 205/55 R16 91 T,Hankook,Winter i*cept RS3 W462,205/55 R16,91,T,C,B,B,72.0,Premium,5.3,322.0,full
+Z507 205/55 R16 91 V,Goodride,Z507,205/55 R16,91,V,C,C,B,72.0,Ekonomiczna,5.1,239.99,full
+Z507 205/55 R16 91 V,Goodride,Z507,205/55 R16,91,V,C,C,B,72.0,Ekonomiczna,5.1,289.0,full
+Z507 205/55 R16 91 V,Goodride,Z507,205/55 R16,91,V,C,C,B,72.0,Ekonomiczna,5.1,289.0,full
+Z507 205/55 R16 91 V,Goodride,Z507,205/55 R16,91,V,C,C,B,72.0,Ekonomiczna,5.1,223.0,full
+Z507 205/55 R16 91 V,Goodride,Z507,205/55 R16,91,V,C,C,B,72.0,Ekonomiczna,5.1,239.99,last
+SW608 205/55 R16 91 H,Goodride,SW608,205/55 R16,91,H,C,C,B,72.0,Ekonomiczna,5.1,249.99,full
+SW608 205/55 R16 91 H,Goodride,SW608,205/55 R16,91,H,C,C,B,72.0,Ekonomiczna,5.1,249.99,full
+SW608 205/55 R16 91 H,Goodride,SW608,205/55 R16,91,H,C,C,B,72.0,Ekonomiczna,5.1,249.99,full
+SW608 205/55 R16 91 H,Goodride,SW608,205/55 R16,91,H,C,C,B,72.0,Ekonomiczna,5.1,249.99,full
+SW608 205/55 R16 91 H,Goodride,SW608,205/55 R16,91,H,C,C,B,72.0,Ekonomiczna,5.1,249.99,full
+SW608 205/55 R16 91 H,Goodride,SW608,205/55 R16,91,H,C,C,B,72.0,Ekonomiczna,5.1,249.99,full
+SW608 205/55 R16 91 H,Goodride,SW608,205/55 R16,91,H,C,C,B,72.0,Ekonomiczna,5.1,249.99,full
+SW608 205/55 R16 91 H,Goodride,SW608,205/55 R16,91,H,C,C,B,72.0,Ekonomiczna,5.1,249.99,medium
+Z507 205/55 R16 91 V,Goodride,Z507,205/55 R16,91,V,C,C,B,72.0,Ekonomiczna,5.1,223.0,last
+Snowproof 2 205/55 R16 91 H,Nokian Tyres,Snowproof 2,205/55 R16,91,H,C,B,A,69.0,Premium,5.6,369.99,full
+Snowproof 2 205/55 R16 91 H,Nokian Tyres,Snowproof 2,205/55 R16,91,H,C,B,A,69.0,Premium,5.6,450.0,low
+WinterExpert 205/55 R16 91 T,Uniroyal,WinterExpert,205/55 R16,91,T,C,B,B,71.0,Średnia,5.4,310.0,low
+WinterExpert 205/55 R16 91 H,Uniroyal,WinterExpert,205/55 R16,91,H,C,B,B,71.0,Średnia,5.4,350.0,full
+Wintercraft WP52 205/55 R16 91 H,Kumho,Wintercraft WP52,205/55 R16,91,H,C,B,B,72.0,Średnia,5.1,320.0,full
+Snowproof 2 205/55 R16 94 H,Nokian Tyres,Snowproof 2,205/55 R16,94,H,B,B,A,69.0,Premium,5.6,389.0,full
+Blizzak LM005 205/55 R16 91 H,Bridgestone,Blizzak LM005,205/55 R16,91,H,C,A,B,71.0,Premium,5.5,455.0,full
+Blizzak LM005 205/55 R16 91 H,Bridgestone,Blizzak LM005,205/55 R16,91,H,C,A,B,71.0,Premium,5.5,455.0,low
+Winter i*cept RS3 W462 205/55 R16 91 H,Hankook,Winter i*cept RS3 W462,205/55 R16,91,H,C,B,B,72.0,Premium,5.3,379.0,low
+BluEarth Winter V906 205/55 R16 91 T,Yokohama,BluEarth Winter V906,205/55 R16,91,T,D,B,B,71.0,Premium,5.3,347.0,full
+WinterContact TS 870 205/55 R16 91 T,Continental,WinterContact TS 870,205/55 R16,91,T,C,B,B,70.0,Premium,5.6,467.0,low
+Alpin 7 205/55 R16 91 T,Michelin,Alpin 7,205/55 R16,91,T,C,B,B,71.0,Premium,5.5,460.0,full
+WinterContact TS 870 205/55 R16 91 T,Continental,WinterContact TS 870,205/55 R16,91,T,C,B,B,70.0,Premium,5.6,467.0,last
+Winter i*cept RS3 W462 205/55 R16 91 H,Hankook,Winter i*cept RS3 W462,205/55 R16,91,H,C,B,B,71.0,Premium,5.3,394.06,low
+DIMAX WINTER 205/55 R16 94 V,Radar,DIMAX WINTER,205/55 R16,94,V,C,B,B,69.0,Ekonomiczna,,280.0,full
+Eurowinter HS02 205/55 R16 94 V,Falken,Eurowinter HS02,205/55 R16,94,V,C,B,A,69.0,Średnia,5.4,372.91,last
+WinterContact TS 860 S 205/55 R16 91 H,Continental,WinterContact TS 860 S,205/55 R16,91,H,C,C,B,72.0,Premium,5.6,563.72,last
+Winter Sport 5 205/55 R16 94 H,Dunlop,Winter Sport 5,205/55 R16,94,H,C,B,B,71.0,Premium,5.4,451.76,last
+Ultra Grip Performance 3 205/55 R16 94 V,Goodyear,Ultra Grip Performance 3,205/55 R16,94,V,C,B,B,70.0,Premium,5.5,582.16,last
+Ultra Grip Performance 3 205/55 R16 94 V,Goodyear,Ultra Grip Performance 3,205/55 R16,94,V,C,B,B,70.0,Premium,5.5,582.16,last
+Snowproof 2 205/55 R16 91 H,Nokian Tyres,Snowproof 2,205/55 R16,91,H,C,B,A,69.0,Premium,5.6,358.0,last
+Winter i*cept RS3 W462 205/55 R16 94 V,Hankook,Winter i*cept RS3 W462,205/55 R16,94,V,C,B,B,72.0,Premium,5.3,446.21,last
+Wintercraft WP52 205/55 R16 94 H,Kumho,Wintercraft WP52,205/55 R16,94,H,C,B,B,72.0,Średnia,5.1,486.27,last
+Ultra Grip Performance 3 205/55 R16 91 H,Goodyear,Ultra Grip Performance 3,205/55 R16,91,H,C,B,B,70.0,Premium,5.5,493.51,last
+TW401 205/55 R16 94 V,Triangle,TW401,205/55 R16,94,V,D,C,B,72.0,,,247.79,last
+ESKIMO HP2 205/55 R16 94 H,Sava,ESKIMO HP2,205/55 R16,94,H,C,D,B,72.0,Ekonomiczna,5.2,459.52,last
+Winter i*cept RS3 W462 205/55 R16 91 H,Hankook,Winter i*cept RS3 W462,205/55 R16,91,H,D,B,B,72.0,Premium,5.3,470.31,last
+Wintercraft WP52 205/55 R16 91 H,Kumho,Wintercraft WP52,205/55 R16,91,H,C,B,B,72.0,Średnia,5.1,405.29,low
+Blizzak LM001 205/55 R16 91 H,Bridgestone,Blizzak LM001,205/55 R16,91,H,D,B,B,72.0,Premium,5.3,507.31,last
+Blizzak LM001 EVO 205/55 R16 91 H,Bridgestone,Blizzak LM001 EVO,205/55 R16,91,H,C,B,B,72.0,Premium,4.6,459.95,last
+Observe S944 205/55 R16 94 V,Toyo,Observe S944,205/55 R16,94,V,D,B,B,71.0,Średnia,5.0,407.89,low
+Winterhawk 4 205/55 R16 94 V,Firestone,Winterhawk 4,205/55 R16,94,V,C,B,B,71.0,Średnia,5.3,439.64,low
+Ultra Grip Performance 3 205/55 R16 94 H,Goodyear,Ultra Grip Performance 3,205/55 R16,94,H,C,B,B,70.0,Premium,5.5,529.86,low
+SP Winter Sport 4D 205/55 R16 91 H,Dunlop,SP Winter Sport 4D,205/55 R16,91,H,C,C,B,70.0,Premium,4.9,495.54,last
+Blizzak LM005 DriveGuard 205/55 R16 94 V,Bridgestone,Blizzak LM005 DriveGuard,205/55 R16,94,V,C,A,B,71.0,Premium,5.2,657.04,last
+WINTER HP 205/55 R16 91 T,Kelly,WINTER HP,205/55 R16,91,T,,,,,,,353.45,last
+SP Winter Sport 3D 205/55 R16 91 H,Dunlop,SP Winter Sport 3D,205/55 R16,91,H,D,C,B,72.0,Premium,4.7,523.91,low
+SP Winter Sport 3D 205/55 R16 91 H,Dunlop,SP Winter Sport 3D,205/55 R16,91,H,D,C,B,70.0,Premium,4.7,554.4,low
+BluEarth Winter V906 205/55 R16 94 V,Yokohama,BluEarth Winter V906,205/55 R16,94,V,D,B,B,71.0,Premium,5.3,499.0,low
+Wintrac 205/55 R16 94 V,Vredestein,Wintrac,205/55 R16,94,V,C,B,B,70.0,Premium,5.4,499.45,low
+g-Force Winter 2 205/55 R16 91 T,Bfgoodrich,g-Force Winter 2,205/55 R16,91,T,D,B,A,69.0,Średnia,5.2,478.78,low
+FROSTRACK UHP 205/55 R16 94 H,Minerva,FROSTRACK UHP,205/55 R16,94,H,,,,,,4.5,243.77,last
+Winter i*cept RS3 W462 205/55 R16 91 H,Hankook,Winter i*cept RS3 W462,205/55 R16,91,H,C,B,B,72.0,Premium,5.3,377.39,last
+RoyalWinter HP 205/55 R16 91 H,Royal Black,RoyalWinter HP,205/55 R16,91,H,C,D,B,72.0,,4.9,223.7,last
+SNOWPOWER UHP 205/55 R16 91 H,Tristar,SNOWPOWER UHP,205/55 R16,91,H,,,,,,4.8,381.73,last
+VOYAGER WINTER 205/55 R16 91 H,Voyager,VOYAGER WINTER,205/55 R16,91,H,,,,,,,300.58,last
+UltraGrip 9+ 205/55 R16 94 H,Goodyear,UltraGrip 9+,205/55 R16,94,H,C,B,B,71.0,Premium,5.5,560.13,last
+Winter Sottozero Serie II 205/55 R16 94 V,Pirelli,Winter Sottozero Serie II,205/55 R16,94,V,C,C,B,72.0,Premium,5.5,1062.45,last
+I FIT+ 205/55 R16 91 T,Laufenn,I FIT+,205/55 R16,91,T,C,C,B,72.0,,5.4,325.11,last
+Ultra Grip 8 205/55 R16 91 T,Goodyear,Ultra Grip 8,205/55 R16,91,T,D,D,B,71.0,Premium,5.2,584.94,last
+Wintercraft WP52 205/55 R16 94 V,Kumho,Wintercraft WP52,205/55 R16,94,V,C,B,B,72.0,Średnia,5.1,406.12,last
+Kristall Montero 3 205/55 R16 91 T,Fulda,Kristall Montero 3,205/55 R16,91,T,,,,,Średnia,5.2,749.28,last
+Cinturato Winter 2 205/55 R16 91 T,Pirelli,Cinturato Winter 2,205/55 R16,91,T,C,B,A,69.0,Premium,5.6,497.55,last
+FROSTRACK UHP 205/55 R16 91 H,Minerva,FROSTRACK UHP,205/55 R16,91,H,,,,,,4.5,330.71,last
+Blizzak LM005 205/55 R16 94 V,Bridgestone,Blizzak LM005,205/55 R16,94,V,C,A,B,71.0,Premium,5.5,645.72,last
+Blizzak LM001 205/55 R16 91 H,Bridgestone,Blizzak LM001,205/55 R16,91,H,D,C,B,72.0,Premium,5.3,605.71,last
+g-Force Winter 2 205/55 R16 94 H,Bfgoodrich,g-Force Winter 2,205/55 R16,94,H,D,B,A,69.0,Średnia,5.2,512.3,last
+WINTERPRO2 (EVO)* 205/55 R16 91 T,Gt radial,WINTERPRO2 (EVO)*,205/55 R16,91,T,D,B,B,70.0,,,344.28,last
