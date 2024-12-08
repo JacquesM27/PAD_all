@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96665327-84b0-4182-a47f-a9f051c3fbcf" name="Changes" comment="added EDA">
+    <list default="true" id="96665327-84b0-4182-a47f-a9f051c3fbcf" name="Changes" comment="added visualization and small refactoring">
+      <change afterPath="$PROJECT_DIR$/PAD_08.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/08/ZyskiFirmyX.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/08/spendingscores.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/08/wyniki.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mini_projekt.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mini_projekt.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +60,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -66,10 +69,11 @@
       <recent name="C:\pjatk\studia magisterskie\PAD\PAD_all\data\04" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\pjatk\studia magisterskie\PAD\PAD_all\data\08" />
+      <recent name="C:\pjatk\studia magisterskie\PAD\PAD_all\data" />
       <recent name="C:\pjatk\studia magisterskie\PAD\PAD_all" />
       <recent name="C:\pjatk\studia magisterskie\PAD\PAD_all\data\03" />
       <recent name="C:\pjatk\studia magisterskie\PAD\PAD_all\data\01" />
-      <recent name="C:\pjatk\studia magisterskie\PAD\PAD_all\data\02" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -131,7 +135,18 @@
       <workItem from="1731440133205" duration="2030000" />
       <workItem from="1731516611616" duration="7492000" />
       <workItem from="1731599813453" duration="3512000" />
-      <workItem from="1731603661318" duration="5824000" />
+      <workItem from="1731603661318" duration="6206000" />
+      <workItem from="1731614986729" duration="11000" />
+      <workItem from="1732380076931" duration="10000" />
+      <workItem from="1732380172914" duration="1636000" />
+      <workItem from="1732384762111" duration="18000" />
+      <workItem from="1732384814319" duration="2090000" />
+      <workItem from="1732386943762" duration="879000" />
+      <workItem from="1732387878845" duration="221000" />
+      <workItem from="1732391684590" duration="714000" />
+      <workItem from="1733589179427" duration="644000" />
+      <workItem from="1733595357580" duration="2156000" />
+      <workItem from="1733642914170" duration="2296000" />
     </task>
     <task id="LOCAL-00001" summary="pad01 and pad02">
       <option name="closed" value="true" />
@@ -221,7 +236,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731523304781</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="added visualization and small refactoring">
+      <option name="closed" value="true" />
+      <created>1731613676195</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1731613676195</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,6 +262,7 @@
     <MESSAGE value="added duplicates removing" />
     <MESSAGE value="completed cleaning" />
     <MESSAGE value="added EDA" />
-    <option name="LAST_COMMIT_MESSAGE" value="added EDA" />
+    <MESSAGE value="added visualization and small refactoring" />
+    <option name="LAST_COMMIT_MESSAGE" value="added visualization and small refactoring" />
   </component>
 </project>
